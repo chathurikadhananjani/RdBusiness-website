@@ -1,0 +1,145 @@
+.clearfix {
+  overflow: auto;
+}
+.menu {
+  
+  top: 0;
+  width: 100%;
+}
+.menu .links ul a {
+	float: left;
+	display: inline-block;
+	text-align: center;
+	padding: 10px 10px;
+	text-decoration: none;
+	font-size: 17px;
+	color: black;
+
+
+}
+.menu .links ul a:last-child{
+	background: red;
+
+	
+
+}
+.menu .logo {
+	float: right;
+}
+.ABOUT h1{
+	background: black;
+	color: white;
+	padding: 20px;
+
+}
+.ABOUT h3 span{
+	color: red;
+}
+.content{
+	background: black;
+	height: 270px;
+	width: 100%;
+}
+
+.content .image{
+	float: left;
+	width: 30%;
+}
+.content .image img{
+	padding: 10px;
+	height: 250px;
+	width: 350px;
+
+}
+.content .description{
+
+	float: left;
+	width: 65%;
+	padding: 20px;
+	
+
+}
+.content .description h1{
+	color: white;
+}
+.content .description p{
+	color: white;
+	float: right;
+
+}
+.portfolio h6{
+	color: brown;
+}
+.portfolio h3 span{
+	color: red;
+}
+.images img{
+	width: 220px;
+	padding: 0px 45px 30px 45px;
+	
+}
+
+.footer{
+	background: black;
+	height: 350px;
+}
+
+.footer .col1{
+	width: 30%;
+	padding-left: 10px;
+	float: left;
+}
+
+
+
+.footer .col1 img{
+	padding: 10px;
+}
+
+.footer .col1 p{
+	color: white;
+}
+.footer .col1 h4{
+	color: white;
+}
+
+.footer .col2{
+	float: left;
+	padding: 20px;
+	padding-left: 60px;
+}
+.footer .col2 p{
+	color: white;
+}
+.footer .col2 h4{
+	color: white;
+}
+.footer .col3{
+	width: 30%
+	float: left;
+	
+}
+.footer .col3 h4{
+	padding-top: 35px;
+	color: white;
+
+}
+div.foot{
+	width: 100%;
+	background: #ddd;
+	float: left;
+}
+
+.foot .copy{
+	float: left;
+
+
+
+}
+.foot .link{
+	float: right;
+}
+.foot .link ul li{
+	display: inline-block;
+	padding-right: 10px;
+}

@@ -1,0 +1,131 @@
+.clearfix {
+  overflow: auto;
+}
+.menu {
+  
+  top: 0;
+  width: 100%;
+}
+.menu .links ul a {
+	float: left;
+	display: inline-block;
+	text-align: center;
+	padding: 10px 10px;
+	text-decoration: none;
+	font-size: 17px;
+	color: black;
+
+
+}
+.menu .links ul a:last-child{
+	background: red;
+
+	
+
+}
+.menu .logo {
+	float: right;
+}
+.services h1{
+	background-color: black;
+	padding: 20px;
+	color: white;
+}
+.services h3 span{
+	color: red;
+}
+.services img{
+	height: 100px;
+	width: 100px;
+	padding-top: 0px;
+	padding: 55px;
+}
+.create {
+	background-color: black;
+	padding: 20px;
+}
+.create h1 span{
+	color: white;
+}
+.create h1{
+	color: red;
+}
+.create h3{
+	color: #b2beb5;
+}
+.photos h3 span{
+	color: red;
+}
+.photos img{
+	width: 200px;
+	vertical-align: center;
+	height: 200px;
+}
+
+	
+
+.footer{
+	background: black;
+	height: 350px;
+}
+
+.footer .col1{
+	width: 30%;
+	padding-left: 10px;
+	float: left;
+}
+
+
+
+.footer .col1 img{
+	padding: 10px;
+}
+
+.footer .col1 p{
+	color: white;
+}
+.footer .col1 h4{
+	color: white;
+}
+
+.footer .col2{
+	float: left;
+	padding: 20px;
+	padding-left: 60px;
+}
+.footer .col2 p{
+	color: white;
+}
+.footer .col2 h4{
+	color: white;
+}
+.footer .col3{
+	width: 30%
+	float: left;
+	
+}
+.footer .col3 h4{
+	padding-top: 35px;
+	color: white;
+
+}
+div.foot{
+	width: 100%;
+	background: #ddd;
+	float: left;
+}
+
+.foot .copy{
+	float: left;
+
+
+
+}
+.foot .link{
+	float: right;
+}
+.foot .link ul li{
+	display: inline-block;
+	padding-right: 10px;
+}
+
